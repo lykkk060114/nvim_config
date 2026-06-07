@@ -1,2 +1,18 @@
+# AI
 .codex
 .omx/
+
+# vim swap
+*.swp
+*.swo
+*~
+
+# lcoal cache
+.cache/
+tmp/
+temp/
+
+# local private config
+local.lua
+
+
